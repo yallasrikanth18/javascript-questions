@@ -1,9 +1,9 @@
 Javascript Questions
 ====================
 
-[Ask a question](https://github.com/learn-javascript-courses/javascript-questions/issues/new). (See [How do I ask a question?](https://github.com/learn-javascript-courses/javascript-questions/issues/1)) or...
+[Ask a question](https://github.com/learn-javascript-courses/javascript-questions/issues/new). (See [How do I ask a question?](https://github.com/learn-javascript-courses/javascript-questions/issues/1))
 
-[Browse open questions](https://github.com/learn-javascript-courses/javascript-questions/issues)
+[Browse open questions](https://github.com/learn-javascript-courses/javascript-questions/issues).
 
 If you know the answer to a question, just post it in the comments for an open question.
 
