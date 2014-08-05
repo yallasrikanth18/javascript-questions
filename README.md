@@ -9,5 +9,5 @@ If you know the answer to a question, just post it in the comments for an open q
 
 All questions and answers can be enhanced using [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown).
 
-Questions with enough comments and votes will be added to a Frequently Asked Questions in this document.
+Questions with enough activity will be added to a Frequently Asked Questions in this document.
 
