@@ -9,5 +9,5 @@ All questions and answers can be enhanced using [GitHub flavored markdown](https
 
 Questions with enough activity will be added to a Frequently Asked Questions in this document.
 
-FAQ answers are curated by JavaScript experts rather than voted on by the community. We know it's not democratic, but sometimes group think and herd mentality produce poor solutions.
+FAQ answers are curated by JavaScript experts rather than voted on by the community. The experts will take community opinion into consideration while selecting an answer, but sometimes the right answer is not the same as the popular answer.
 
