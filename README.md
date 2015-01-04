@@ -16,3 +16,5 @@ FAQ answers are curated by JavaScript experts rather than voted on by the commun
 ## FAQ
 
 * [Where can I find examples of prototypal OO in JavaScript?](https://github.com/learn-javascript-courses/javascript-questions/issues/2)
+
+* [Should I avoid using `this` in JavaScript?](https://github.com/learn-javascript-courses/javascript-questions/issues/3) Short answer: use with caution
