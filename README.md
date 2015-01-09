@@ -15,6 +15,8 @@ FAQ answers are curated by JavaScript experts rather than voted on by the commun
 
 ## FAQ
 
+* [What's the best way to learn JavaScript?](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) (This question links directly to the answer).
+
 * [Where can I find examples of prototypal OO in JavaScript?](https://github.com/learn-javascript-courses/javascript-questions/issues/2) Spoiler: everywhere
 
 * [Should I avoid using `this` in JavaScript?](https://github.com/learn-javascript-courses/javascript-questions/issues/3) Spoiler: use with caution
