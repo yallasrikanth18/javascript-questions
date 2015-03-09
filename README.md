@@ -1,6 +1,8 @@
 Javascript Questions
 ====================
 
+[![Join the chat at https://gitter.im/learn-javascript-courses/javascript-questions](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/learn-javascript-courses/javascript-questions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Ask a question](https://github.com/learn-javascript-courses/javascript-questions/issues/new). (See [How do I ask a question?](https://github.com/learn-javascript-courses/javascript-questions/issues/1))
 
 [Browse open questions](https://github.com/learn-javascript-courses/javascript-questions/issues). If you know the answer to a question, just post it in the comments for an open question.
