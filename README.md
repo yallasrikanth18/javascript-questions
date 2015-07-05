@@ -1,4 +1,4 @@
-<img width="1200" alt="eejs-screenshot" src="https://cloud.githubusercontent.com/assets/364727/8510925/133262fa-22bd-11e5-8741-2fbd1194cebb.png">
+<a href="https://ericelliottjs.com"><img width="1200" alt="eejs-screenshot" src="https://cloud.githubusercontent.com/assets/364727/8510925/133262fa-22bd-11e5-8741-2fbd1194cebb.png"></a>
 
 Javascript Questions
 ====================
