@@ -1,10 +1,5 @@
 ## Question #1
 
-> Help me understand promises, please.
-
-Miguel, that's not a question!
-
-
 > Do you recommend class or createClass in React?
 
 * [pure components](https://github.com/ericelliott/react-pure-component-starter) for most things
