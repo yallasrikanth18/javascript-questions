@@ -25,4 +25,4 @@ For larger code examples, post a link to your code on [webpackbin](https://www.w
 
 ## FAQ
 
-* [What's the best way to learn JavaScript?](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) (This question links directly to the answer).
+* [What's the best way to learn JavaScript?](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2).
