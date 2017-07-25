@@ -5,7 +5,7 @@ Javascript Questions
 
 [![Join the chat at https://gitter.im/learn-javascript-courses/javascript-questions](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/learn-javascript-courses/javascript-questions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Chatroom Etiquite
+## Chatroom Etiquette
 
 This chat room works best when we discuss problems related to the curriculum on [EricElliottJS.com](https://ericelliottjs.com), or questions about ["Programming JavaScript Applications"](http://pjabook.com) or the [JavaScript Scene articles](https://medium.com/javascript-scene). For other questions about your specific JavaScript/DOM/CSS problems, FreeCodeCamp maintains a list of [excellent chat rooms](https://gitter.im/FreeCodeCamp/home) where you can get answers faster.
 
