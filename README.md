@@ -15,10 +15,10 @@ This chat room works best when we discuss problems related to the curriculum on 
 
 For small code examples (just a few lines), use &grave;&grave;&grave;js around your code blocks for proper code formatting. Messages may also be enhanced using [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown).
 
-<code><pre>&grave;&grave;&grave;js
+<pre><code>&grave;&grave;&grave;js
 'your code here...'
 &grave;&grave;&grave;
-</pre></code>
+</code></pre>
 
 For larger code examples, post a link to your code on [webpackbin](https://www.webpackbin.com/) (if you need to import modules) or [CodePen](https://codepen.io/).
 
